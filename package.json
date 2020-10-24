@@ -1,0 +1,11 @@
+{
+	"name": "ZilorsSecretBot",
+	"version": "1.0.0",
+	"description": "Daily chore for Lord Ruler Zilor",
+	"main": "bot.js",
+	"author": "Zilor",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.3.3"
+	}
+}
